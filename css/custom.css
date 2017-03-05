@@ -1,6 +1,6 @@
 body {
-  background: none;
-  color: #69707a;
+  background: pink;
+  color: grey;
   font-family: "Open Sans", Arial, sans-serif;
 }
 strong {
@@ -8,7 +8,7 @@ strong {
 }
 
 .navbar {
-  background:pink;
+  background:blue;
 }
 
 .btn {
@@ -28,15 +28,8 @@ strong {
   border-color: #e05164;
 }
 
-.card {
-  border-color: #ccc;
-}
 
-.card-title {
-  color: #e16879;
-  font-weight: 300;
-}
 
-.card-block small {
-  float: right;
+.progress-bar {
+  height: 100%;
 }
